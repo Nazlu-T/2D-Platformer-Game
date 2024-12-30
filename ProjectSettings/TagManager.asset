@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Ground
+  - Bullet
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Lava
+  - Water
+  - UI
+  - Ground
+  - Ladder
+  - Player
+  - Background
+  - Bridge
+  - Enemies
+  - Hazards
+  - Bullet
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 2034927325
+    locked: 0
+  - name: Ruins Background
+    uniqueID: 3607686551
+    locked: 0
+  - name: Rocks Background
+    uniqueID: 1103849603
+    locked: 0
+  - name: Lava
+    uniqueID: 773727475
+    locked: 0
+  - name: Platforms
+    uniqueID: 2783474083
+    locked: 0
+  - name: Ladder
+    uniqueID: 3065946417
+    locked: 0
+  - name: Bridge
+    uniqueID: 2596260797
+    locked: 0
+  - name: Hazards
+    uniqueID: 2955756121
+    locked: 0
+  - name: Enemies
+    uniqueID: 1478848829
+    locked: 0
+  - name: Player
+    uniqueID: 2650002105
+    locked: 0
