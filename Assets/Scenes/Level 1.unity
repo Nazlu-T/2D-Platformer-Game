@@ -15479,13 +15479,17 @@ PrefabInstance:
       propertyPath: m_Follow
       value: 
       objectReference: {fileID: 1868110256}
+    - target: {fileID: 6664605144513450205, guid: 305228bf4e1bb514ca5a8c843462f2b3, type: 3}
+      propertyPath: m_Lens.OrthographicSize
+      value: 7.3
+      objectReference: {fileID: 0}
     - target: {fileID: 6998012490237283517, guid: 305228bf4e1bb514ca5a8c843462f2b3, type: 3}
       propertyPath: m_AnimatedTarget
       value: 
       objectReference: {fileID: 1868110263}
     - target: {fileID: 6998012490237283517, guid: 305228bf4e1bb514ca5a8c843462f2b3, type: 3}
       propertyPath: m_ChildCameras.Array.size
-      value: 0
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 7209223946274524333, guid: 305228bf4e1bb514ca5a8c843462f2b3, type: 3}
       propertyPath: m_LocalPosition.x
