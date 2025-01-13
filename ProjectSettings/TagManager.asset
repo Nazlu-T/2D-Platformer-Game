@@ -7,6 +7,7 @@ TagManager:
   - Enemy
   - Ground
   - Bullet
+  - coin
   layers:
   - Default
   - TransparentFX
@@ -22,7 +23,7 @@ TagManager:
   - Enemies
   - Hazards
   - Bullet
-  - 
+  - Interactables
   - 
   - 
   - 
@@ -70,6 +71,9 @@ TagManager:
     locked: 0
   - name: Enemies
     uniqueID: 1478848829
+    locked: 0
+  - name: Interactables
+    uniqueID: 3483404963
     locked: 0
   - name: Player
     uniqueID: 2650002105
