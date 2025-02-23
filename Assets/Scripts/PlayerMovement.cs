@@ -79,6 +79,7 @@ public class PlayerMovement : MonoBehaviour
         {
             myRigidbody.velocity += new Vector2(0f, jumpSpeed);
             
+            
         }
         
     }
